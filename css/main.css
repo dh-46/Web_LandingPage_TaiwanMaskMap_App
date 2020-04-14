@@ -50,7 +50,8 @@ html {
 
 p {
   font-size: 14px;
-  color: #a0a6ad;
+  /* color: #a0a6ad; */
+  color: #000000;
   line-height: 26px;
   /* font-family: 'Roboto', sans-serif; */
   font-family: Microsoft JhengHei;
